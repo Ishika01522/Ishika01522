@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m Ishika Gaikwad
+
+👀 I’m interested in Data Analysis
+
+🔍 Passionate about exploring New Technologies
+
+🌱 Currently learning SQL,Power BI,Advanced Excel
+
+📚 Interested in doing Insights
 
 <!--
 **Ishika01522/Ishika01522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
